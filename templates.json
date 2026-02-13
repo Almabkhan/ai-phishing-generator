@@ -1,0 +1,14 @@
+[
+    {
+        "subject": "URGENT: Your {company} account will be suspended",
+        "body": "Dear {name},\n\nYour {company} account requires verification. Please login immediately:\n{link}\n\nFailure to verify within 24 hours will result in account suspension.\n\nRegards,\n{company} Security Team"
+    },
+    {
+        "subject": "Unusual login attempt detected",
+        "body": "Hello {name},\n\nWe detected a login attempt from an unknown device. If this wasn't you, please secure your account:\n{link}\n\n{company} Support"
+    },
+    {
+        "subject": "{company}: Password expired",
+        "body": "Hi {name},\n\nYour {company} password has expired. Please update it immediately:\n{link}\n\n{company} IT Department"
+    }
+]
