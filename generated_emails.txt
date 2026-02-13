@@ -1,0 +1,99 @@
+
+==================================================
+ID: 1
+Timestamp: 2026-02-13 15:26:33
+Company: PayPal
+Target: Customer
+Subject: PayPal: Password expired
+Link: https://paypal.account-update.net/login
+Risk Score: 78%
+Body:
+Hi Customer,
+
+Your PayPal password has expired. Please update it immediately:
+https://paypal.account-update.net/login
+
+PayPal IT Department
+
+==================================================
+ID: 2
+Timestamp: 2026-02-13 15:28:59
+Company: Google
+Target: Ahmed Ali
+Subject: URGENT: Your Google account will be suspended
+Link: https://google.login-confirm.org/login
+Risk Score: 88%
+Body:
+Dear Ahmed Ali,
+
+Your Google account requires verification. Please login immediately:
+https://google.login-confirm.org/login
+
+Failure to verify within 24 hours will result in account suspension.
+
+Regards,
+Google Security Team
+
+==================================================
+ID: 3
+Timestamp: 2026-02-13 15:28:59
+Company: Facebook
+Target: John Doe
+Subject: Unusual login attempt detected
+Link: https://facebook.account-update.net/login
+Risk Score: 76%
+Body:
+Hello John Doe,
+
+We detected a login attempt from an unknown device. If this wasn't you, please secure your account:
+https://facebook.account-update.net/login
+
+Facebook Support
+
+==================================================
+ID: 4
+Timestamp: 2026-02-13 15:28:59
+Company: Google
+Target: Ahmed Ali
+Subject: Unusual login attempt detected
+Link: https://google.secure-verify.com/login
+Risk Score: 95%
+Body:
+Hello Ahmed Ali,
+
+We detected a login attempt from an unknown device. If this wasn't you, please secure your account:
+https://google.secure-verify.com/login
+
+Google Support
+
+==================================================
+ID: 5
+Timestamp: 2026-02-13 15:28:59
+Company: PayPal
+Target: Usman Chaudhry
+Subject: PayPal: Password expired
+Link: https://paypal.secure-verify.com/login
+Risk Score: 81%
+Body:
+Hi Usman Chaudhry,
+
+Your PayPal password has expired. Please update it immediately:
+https://paypal.secure-verify.com/login
+
+PayPal IT Department
+
+==================================================
+ID: 6
+Timestamp: 2026-02-13 15:28:59
+Company: Amazon
+Target: Fatima Zafar
+Subject: Unusual login attempt detected
+Link: https://amazon.login-confirm.org/login
+Risk Score: 71%
+Body:
+Hello Fatima Zafar,
+
+We detected a login attempt from an unknown device. If this wasn't you, please secure your account:
+https://amazon.login-confirm.org/login
+
+Amazon Support
